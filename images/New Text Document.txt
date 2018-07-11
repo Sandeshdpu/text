@@ -1,0 +1,14 @@
+g1
+g2
+g3 
+g4
+g5
+g6
+g7
+g8
+t1   dad
+t2   dad
+t3  dad
+t4  dad
+w1
+w2
